@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://nikandr.com/og-image.jpg" alt="Nikandr - Premium Telegram Development Resources" width="600"/>
   
-  🚀 **Looking to master Telegram Mini App development?**  
+  🚀 **Looking to master Telegram Mini App Alexandr erohin development?**  
   Visit [nikandr.com](https://nikandr.com) for the best premium content and courses for Telegram developers.
 </div>
 
